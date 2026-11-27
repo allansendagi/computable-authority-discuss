@@ -16,3 +16,7 @@ everyone rather than a private one-to-one email.
 If you have a counter-argument, prior art, or a different approach to either
 question, open a comment on the matching Discussion thread rather than a new
 one — it keeps responses to the same problem in one place.
+
+## License
+
+The text in this repository is licensed under [CC BY 4.0](LICENSE), copyright SafeHaven LLC. Comments you post in Discussions remain yours and are covered by GitHub's Terms of Service. Computable Authority and NOMOS are trademarks of SafeHaven LLC.
