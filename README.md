@@ -19,4 +19,4 @@ one — it keeps responses to the same problem in one place.
 
 ## License
 
-The text in this repository is licensed under [CC BY 4.0](LICENSE), copyright SafeHaven LLC. Comments you post in Discussions remain yours and are covered by GitHub's Terms of Service. Computable Authority and NOMOS are trademarks of SafeHaven LLC.
+The text in this repository is licensed under [CC BY 4.0](LICENSE), copyright SafeHaven LLC. Comments you post in Discussions remain yours and are covered by GitHub's Terms of Service. Computable Authority and NOMOS Protocol are trademarks of SafeHaven LLC.
